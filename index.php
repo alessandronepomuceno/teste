@@ -20,9 +20,6 @@
   </head>
   <body>
 
-
-
-
     <h1>Confirma Agenda</h1><Br><BR>
 
 	<div> 
