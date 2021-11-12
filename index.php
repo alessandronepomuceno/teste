@@ -20,20 +20,21 @@
   </head>
   <body>
 
+  <br><Br>
+  
+	<img src="img/confirma.png" width="300px">
 
-
-
-    <h1>Confirma Agenda</h1><Br><BR>
+   <br><Br>
 
 	<div> 
 	<label for="nome">Nome Completo:</label>
         <input type="text" id="nome" />
     </div>
 		<div>
-			<label for="cartao">Numero do Cartão SUS:</label>
+			<label for="cartao">Cartão SUS:</label>
 			<input type="cartao" id="cartao" />
 		</div>
-
+ 
 		<div>
 			<label for="data">Data Nascimento: (D/M/A)</label>
 			<input type="data" id="data" />
@@ -60,7 +61,7 @@ function alert(message, type) {
 
 if (alertTrigger) {
   alertTrigger.addEventListener('click', function () {
-    alert('Consulta Confirmada com sucesso !', 'success')
+    alert('Alessandro, sua consulta foi confirmada com sucesso !', 'success')
   })
 }
 
