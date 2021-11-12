@@ -23,7 +23,7 @@
 
   <br><Br>
   
-	<img src="img/confirma.png" width="300px">
+	<img src="img/confirma.PNG" width="300px">
 
    <br><Br>
 
